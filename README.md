@@ -3,12 +3,12 @@
 #### Technical Skills: Python, MS-Excel, SQL, Tableau, C/C++, Git & Github, Command Line, Shell Scripting, ChatGPT
 
 ## Projects:
-**Finding Optimal Location To Find A Restaurant**
-[Publication](https://www.linkedin.com/pulse/finding-optimal-location-open-restaurant-subrojyoti-paul/)
+**Finding Optimal Location To Find A Restaurant**  
+[Publication](https://www.linkedin.com/pulse/finding-optimal-location-open-restaurant-subrojyoti-paul/)  
 Found top 5 suitable locations for opening a French restaurant in Toronto, using **Python** and **Foursquare API**.
 
-**Analysis of Fitbit Data**
-[Publication](https://www.kaggle.com/code/subrojyotipaul/fitbit-data-analysis)
+**Analysis of Fitbit Data**  
+[Publication](https://www.kaggle.com/code/subrojyotipaul/fitbit-data-analysis)  
 Anlayzed the data of 30 Fitbit users include minute-level output for physical activity, heart rate, sleep monitoring etc. using **R programming**. This data-driven analysis led to improve users' experience.
 
 ## Education:
