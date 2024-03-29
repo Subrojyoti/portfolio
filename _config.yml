@@ -1,5 +1,5 @@
-logo: /assets/img/profile_photo.png
 title: Subrojyoti Paul
+logo: \assets\img\profile_photo.png
 # description: Data Scientist
 show_downloads: false
 theme: jekyll-theme-minimal

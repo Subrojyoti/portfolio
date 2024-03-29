@@ -16,17 +16,17 @@ Anlayzed the data of 30 Fitbit users include minute-level output for physical ac
 - B.Sc., Mathematics | Darrang College (_2019 - 2022_)
 
 ## Certifications
-- [Google Data Analytics] ( https://coursera.org/share/66f4248668dae6439e14c2a99843af62)
-- [Python Project for Data Science] ( https://coursera.org/share/6aebee4e6ff4dd8ad368dd2c83140a27)
+- [Google Data Analytics](https://coursera.org/share/66f4248668dae6439e14c2a99843af62)
+- [Python Project for Data Science](https://coursera.org/share/6aebee4e6ff4dd8ad368dd2c83140a27)
 
 ## Coursework
-- Mathematics
+- **Mathematics**:  
     Numerical Methods, Number Theory, Linear Algebra, Calculus
-- Statistics
+- **Statistics**:  
     Statistical Methods, Introductory Probability, Basics of Statistical Inference, Applied Statistics
 - Computer Science
     Data Structures and Algorithms, Formal Language and Automata, Discrete Mathematics, Graph Theory, Operating System, DBMS, Data Mining and Warehousing
-- Others
+- **Others**:  
     Basics of Product Design, Accounting and Financial Management
 
 ## Languages
